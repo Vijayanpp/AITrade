@@ -1,4 +1,4 @@
-# PIT Solutions — AI Trade Analyst
+#  AI Trade Analyst
 
 > Intraday stock analysis powered by Claude Code. Four specialist AI agents run in parallel to deliver a single, actionable trade signal with entry, targets, and stop loss.
 
