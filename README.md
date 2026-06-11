@@ -255,8 +255,3 @@ graph TD
 
 This tool is for **informational and educational purposes only**.
 
-PIT Solutions is not a SEBI-registered investment advisor. This system does not constitute financial advice. Always apply your own judgment, consult a registered advisor, and use proper risk management before taking any trade.
-
----
-
-*Copyright (c) 2026 PIT Solutions. All rights reserved.*
