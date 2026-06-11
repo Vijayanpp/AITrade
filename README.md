@@ -2,7 +2,7 @@
 
 > Intraday stock analysis powered by Claude Code. Four specialist AI agents run in parallel to deliver a single, actionable trade signal with entry, targets, and stop loss.
 
-A PIT Solutions internal tool for intraday equity analysis on NSE/BSE stocks.
+A  tool for intraday equity analysis on NSE/BSE stocks.
 
 ---
 
